@@ -1,7 +1,0 @@
-com\comp\crud\CrudApplication.class
-com\comp\crud\config\SwaggerCon.class
-com\comp\crud\repo\ContactRepo.class
-com\comp\crud\controller\ContactCont.class
-com\comp\crud\entity\Contact.class
-com\comp\crud\service\DataServiceImpl.class
-com\comp\crud\service\DataService.class
